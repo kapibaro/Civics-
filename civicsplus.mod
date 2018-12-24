@@ -8,4 +8,4 @@ tags={
 }
 picture="civicsplus.jpg"
 remote_file_id="907480976"
-supported_version="2.1.2"
+supported_version="2.2.2"
