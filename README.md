@@ -1,2 +1,2 @@
-# Civics-
-An official repository for Civics+.
+# Civics+
+An official repository for Civics+ mod.
