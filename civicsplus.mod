@@ -1,0 +1,11 @@
+name="Civics+"
+path="mod/civicsplus"
+tags={
+	"Economy"
+	"Buildings"
+	"Balance"
+	"Diplomacy"
+}
+picture="civicsplus.jpg"
+remote_file_id="907480976"
+supported_version="2.1.2"
